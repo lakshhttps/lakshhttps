@@ -34,7 +34,7 @@ I'm a Mathematics & Computing student at **NIT Jalandhar**, passionate about **A
 ---
 
 ## 📊 GitHub Stats
-![Laksh Arora's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshArora&show_icons=true&theme=radical)
+![Laksh Arora's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshArora&show_icons=true&theme=radical&t=1)
 
 ---
 
